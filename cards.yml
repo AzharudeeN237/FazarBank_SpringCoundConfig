@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "welcome to Fazarbank Cards related Micro-Services"
+  contactInfo:
+    name: "Mohammed Thoufik - MS Developer"
+    email: "mhdthoufik@gmail.com"
+  onCallSupport:
+    - "+91 9090909011"
+    - "+91 9090909012"
+

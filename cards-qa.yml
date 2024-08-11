@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "welcome to Fazarbank Cards related QA Micro-Services"
+  contactInfo:
+    name: "Fazil Ahamed - QA Lead"
+    email: "fazila@gmail.com"
+  onCallSupport:
+    - "+91 9090909021"
+    - "+91 9090909022"

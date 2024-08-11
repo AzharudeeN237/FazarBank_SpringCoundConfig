@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "welcome to fazarbank accounts related micro-services"
+  contactInfo:
+    name: "Mohammed Azharudeen"
+    email: "azharudeen237@gmail.com"
+  onCallSupport:
+    - "+91 9751337730"
+    - "+91 9688335960"

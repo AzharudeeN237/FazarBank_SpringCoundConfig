@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "welcome to fazarbank accounts related Prod micro-services"
+  contactInfo:
+    name: "Fazila KhajaMohideen"
+    email: "fazilafazi18@gmail.com"
+  onCallSupport:
+    - "+91 9952491334"
+    - "+91 8190968787"

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "welcome to fazarbank accounts related QA related micro-services"
+  contactInfo:
+    name: "Mohamed Thahir - QA Lead"
+    email: "mhdthahir23@gmail.com"
+  onCallSupport:
+    - "+91 8883731385"
+    - "+91 9688335960"

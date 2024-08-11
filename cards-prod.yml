@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "welcome to Fazarbank Cards related Micro-Services"
+  contactInfo:
+    name: "Mohammed Ashik - Cards Owner"
+    email: "mhdashik22@gmail.com"
+  onCallSupport:
+    - "+91 9090909033"
+    - "+91 9090909033"
